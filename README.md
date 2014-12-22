@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Absaloms funerall: preached at Banbyrie by a neighbour minister. Or, The lamentation of a louing fat
+
+1. TO THE READER.
+
 #####Body#####
-Absaloms funerall: preached at Banbyrie by a neighbour minister. Or, The lamentation of a louing fat
+
+1. A Sermon, PREACHED AT BANBVRY BY A NEIGHBOVR MINISTER THERE.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
